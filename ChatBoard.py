@@ -59,7 +59,7 @@ intents = [
     {
         "tag":"developer",
         "patterns":["Who is your developer","Who created you"],
-        "responses":["My developer is suraj sharma","suraj sharma created me"]
+        "responses":["My developer is paluru hussain setty","paluru hussain setty created me"]
     },
     {
         "tag": "play_music",
